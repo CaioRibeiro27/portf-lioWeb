@@ -1,0 +1,1 @@
+Este portfólio tem como objetivo apresentar informações sobre Caio Ribeiro, discente de Ciência da Computação da Univesidade Federal do Oeste do Pará. Com o passar do tempo, este portfólio será atualizado com novos projetos e outras informações relevantes.
