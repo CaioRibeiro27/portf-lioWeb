@@ -7,5 +7,9 @@ ol{
 }
 .film{
     font-size: 20px;
-    font-weight: 1000;
+    font-weight: bolder;
+}
+.game{
+    font-size: 20px;
+    font-weight: bolder;
 }
