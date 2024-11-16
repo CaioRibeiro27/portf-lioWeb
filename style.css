@@ -1,27 +1,81 @@
 body{
-    background-color: aquamarine;
+    background-color: #2196f3;
 }
 
-ol{
+#container{
+    background-color: antiquewhite;
+    width: 40%;
+    border-radius: 5px;
+
+    margin-left: 30%;
+    margin-right: 25%;
+}
+
+img{
+    border: 5px double black;
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
     text-align: center;
 }
-.film{
-    font-size: 20px;
-    font-weight: bolder;
-}
-.game{
-    font-size: 20px;
-    font-weight: bolder;
+
+h3{
+    font-family: sans-serif;
+    text-align: center;
 }
 
-#fundofilm1{
-    background-color: yellowgreen;
+#hotel{
+    display: block;
+    background-color: burlywood;
+    width: 40%;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
 }
 
-#fundofilm2{
-    background-color: #E38C44;
+#hotel:hover{
+    background-color: aqua;
 }
 
-#fundofilm3{
-    background-color: #FCFF54;
+#container-hotel{
+    background-color: antiquewhite;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+}
+
+p{
+    padding: 2%;
+}
+
+.buttonBack{
+    display: block;
+    background-color: burlywood;
+    width: 10%;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.buttonBack:hover{
+    background-color: aqua;
+}
+
+li{
+    padding: 5px;
+    font-family: sans-serif;
 }
